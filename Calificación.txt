@@ -1,0 +1,8 @@
+Ejercicio varias tablas: La condición de salida debe ser mientras tabla sea diferente de cero. 
+Si una tabla es negativa, igual se debe calcular, y no debe finalizar con un return.
+
+Mal uso del archivo .gitignore
+Error en archivo Buclewhitte.cpp (la condición no debe ser: while (1 <10))
+No ha solucionado el ejercicio variastablas.cpp
+
+Calificación: 1.7/3.0
